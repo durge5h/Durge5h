@@ -1,5 +1,15 @@
 ### Hi there 👋
+<a href="https://twitter.com/TheCyberExpert_">
+  <img align="left" alt="Hrahsit's Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/harshit-joshi-1b29a5199/">
+  <img align="left" alt="Harshit's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
+<br />
+<br />
 
+<img align="center" alt="cover" src="bio.png">
 <!--
 **Durge5h/Durge5h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
