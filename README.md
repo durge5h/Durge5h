@@ -9,7 +9,7 @@
 <br />
 <br />
 
-<img align="center" alt="cover" src="bio.png">
+<img align="center" alt="cover" src="cover.png">
 <!--
 **Durge5h/Durge5h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
