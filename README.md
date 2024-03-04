@@ -1,4 +1,5 @@
 ### Hi there 👋
+<!--
 <a href="https://twitter.com/Durgesh73475598">
   <img align="left" alt="Durgesh's Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -8,7 +9,7 @@
 <br />
 <br />
 <br />
-
+-->
 <img align="center" alt="cover" src="iamcover.png">
 <!--
 **Durge5h/Durge5h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
