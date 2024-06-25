@@ -1,6 +1,7 @@
 # Hello, I'm DURGESH SAHU
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/durge5h/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<!--
 [Brief Introduction - Remove this afterwards]
 
 I am computer science student with passion of cybersecurity actively engaged in this community through CTF participation and Bug hunting, seeking continual growth and expertise in the field.
@@ -58,3 +59,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+-->
