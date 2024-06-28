@@ -1,62 +1,48 @@
-# Hello, I'm DURGESH SAHU
-<a href="https://www.linkedin.com/in/durge5h"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-[Brief Introduction - Remove this afterwards]
+<h1 align="center">Hi 👋, I'm Durgesh Sahu</h1>
+<h2 align="center">Security Researcher & Pentester | Always Learning</h2> 
+<p align="center">
+<a href="https://twitter.com/durge5h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="durge5h" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/durge5h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durge5h" height="30" width="40" /></a>
+<a href="https://sf4ult.github.io" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=12489&format=png&color=000000" alt="@durge5h" height="30" width="40" /></a>
+<a href="https://discord.gg/durge5h#5496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="durge5h#5496" height="30" width="40" /></a>
+</p>
+
+## About Me 🙋‍♂️
 
 I am computer science student with passion of cybersecurity actively engaged in this community through CTF participation and Bug hunting, seeking continual growth and expertise in the field.
+ 
+### Skills 🛠️
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+* Web Application Security Testing
+* API Security Testing
+* Network Penetration Testing
+* Scripting (Python, Bash)
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as Security Engineer.
+This list is not exhaustive, and I'm always looking to learn new skills. 
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+### Currently Learning 📚
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+* DevSecOps
+* Cloud Security
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Write-Ups 🅱️ ✍
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+[CTF Writeup: CICD GOAT | Part 1](https://sf4ult.github.io/2024/06/27/post10/CICD-GOAT-Part-1/)\
+[Honing The Scripting: AdventOfCode-2015[:5]](https://sf4ult.github.io/2024/03/29/post9/AdventOfCode-2015/)\
+[CTF WriteUp: Pentathon 2024](https://sf4ult.github.io/2024/03/19/post8/Pentathon_2024/)\
+[CTF WriteUp: VishwaCTF 2024](https://sf4ult.github.io/2024/03/04/post7/vishwaCTF_2024/)\
+[CTF WriteUp: TFC CTF 2023](https://sf4ult.github.io/2023/08/01/post6/tfcCTF_2023/)\
+[CTF WriteUp: BDSec 2023](https://sf4ult.github.io/2023/07/22/post5/bdsecCTF_2023/)\
+[CTF WriteUp: WaniCTF 2023](https://sf4ult.github.io/2023/06/08/post4/wanictf_2023/)\
+[CTF WriteUp: HTB CA 2023](https://sf4ult.github.io/2023/04/08/post3/ca_2023/)\
+[Boot2Root CTF WriteUp : Pwn2Own](https://sf4ult.github.io/2023/02/12/post2/pwn2own/)\
+[TryHackMe WriteUp: Recovery](https://sf4ult.github.io/2022/09/12/post1/thm-recovery/)\
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+<h3 align="left">Github Stacks:</h3>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<p>&nbsp;<img align="center`enter code here`" src="https://github-readme-stats.vercel.app/api?username=durge5h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="durge5h"/></p>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durge5h&](https://github-readme-stats.vercel.app/api?username=durge5h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="durge5h"/></p>
+
