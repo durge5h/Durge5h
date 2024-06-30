@@ -28,6 +28,7 @@ This list is not exhaustive, and I'm always looking to learn new skills.
 
 ## Write-Ups 🅱️ ✍
 
+[CTF Writeup: CICD GOAT | Part 2](https://sf4ult.github.io/2024/06/30/post11/CICD-GOAT-Part-2/)\
 [CTF Writeup: CICD GOAT | Part 1](https://sf4ult.github.io/2024/06/27/post10/CICD-GOAT-Part-1/)\
 [Honing The Scripting: AdventOfCode-2015[:5]](https://sf4ult.github.io/2024/03/29/post9/AdventOfCode-2015/)\
 [CTF WriteUp: Pentathon 2024](https://sf4ult.github.io/2024/03/19/post8/Pentathon_2024/)\
@@ -37,7 +38,7 @@ This list is not exhaustive, and I'm always looking to learn new skills.
 [CTF WriteUp: WaniCTF 2023](https://sf4ult.github.io/2023/06/08/post4/wanictf_2023/)\
 [CTF WriteUp: HTB CA 2023](https://sf4ult.github.io/2023/04/08/post3/ca_2023/)\
 [Boot2Root CTF WriteUp : Pwn2Own](https://sf4ult.github.io/2023/02/12/post2/pwn2own/)\
-[TryHackMe WriteUp: Recovery](https://sf4ult.github.io/2022/09/12/post1/thm-recovery/)\
+[TryHackMe WriteUp: Recovery](https://sf4ult.github.io/2022/09/12/post1/thm-recovery/)
 
 
 <h3 align="left">Github Stacks:</h3>
