@@ -42,7 +42,7 @@ This list is not exhaustive, and I'm always looking to learn new skills.
 [TryHackMe WriteUp: Recovery](https://sf4ult.github.io/2022/09/12/post1/thm-recovery/)
 
 
-<h3 align="left">Github Stacks:</h3>
+## Github Stats
 
 <p>&nbsp;<img align="center`enter code here`" src="https://github-readme-stats.vercel.app/api?username=durge5h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="durge5h"/></p>
 
