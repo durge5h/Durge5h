@@ -8,6 +8,7 @@
 <a href="https://discord.gg/durge5h#5496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="durge5h#5496" height="30" width="40" /></a>
 </p>
 
+---
 ## About Me 🙋‍♂️
 
 I am computer science student with passion of cybersecurity actively engaged in this community through CTF participation and Bug hunting, seeking continual growth and expertise in the field.
