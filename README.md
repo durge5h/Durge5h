@@ -43,8 +43,8 @@ This list is not exhaustive, and I'm always looking to learn new skills.
 
 
 ## Github Stats
-
-<p>&nbsp;<img align="center`enter code here`" src="https://github-readme-stats.vercel.app/api?username=durge5h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="durge5h"/></p>
+<img src="<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" align="right" width="350"/>" align="right" width="450"/>
+<p>&nbsp;<img align="center`enter code here`" src="https://github-readme-stats.vercel.app/api?username=durge5h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="durge5h"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durge5h&](https://github-readme-stats.vercel.app/api?username=durge5h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="durge5h"/></p>
 
