@@ -29,10 +29,8 @@ This list is not exhaustive, and I'm always looking to learn new skills.
 
 ## Write-Ups 🅱️ ✍
 
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*PmnXg9LknftoBZexoKcAZQ.gif" align="center" width="350"/>
-
 [CTF Writeup: CICD GOAT | Part 2](https://sf4ult.github.io/2024/06/30/post11/CICD-GOAT-Part-2/)\
-[CTF Writeup: CICD GOAT | Part 1](https://sf4ult.github.io/2024/06/27/post10/CICD-GOAT-Part-1/)\
+[CTF Writeup: CICD GOAT | Part 1](https://sf4ult.github.io/2024/06/27/post10/CICD-GOAT-Part-1/)<img src="https://web-assets.esetstatic.com/wls/2023/2023-10/capture-flag-competitions-hacking.jpeg" align="right" width="350"/>
 [Honing The Scripting: AdventOfCode-2015[:5]](https://sf4ult.github.io/2024/03/29/post9/AdventOfCode-2015/)\
 [CTF WriteUp: Pentathon 2024](https://sf4ult.github.io/2024/03/19/post8/Pentathon_2024/)\
 [CTF WriteUp: VishwaCTF 2024](https://sf4ult.github.io/2024/03/04/post7/vishwaCTF_2024/)\
