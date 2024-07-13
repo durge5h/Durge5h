@@ -29,7 +29,7 @@ This list is not exhaustive, and I'm always looking to learn new skills.
 
 ## Profiles 🔰
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/durge5h.png" alt="TryHackMe"> 
+[<img src="https://tryhackme-badges.s3.amazonaws.com/durge5h.png" alt="TryHackMe">](https://tryhackme.com/p/durge5h) 
 
 ## Write-Ups 🅱️ ✍
 
