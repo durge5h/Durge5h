@@ -11,7 +11,7 @@
 ---
 ## About Me 🙋‍♂️
 
-I am computer science student with passion of cybersecurity actively engaged in this community through CTF participation and Bug hunting, seeking continual growth and expertise in the field.
+I am computer science student with passion of cybersecurity actively engaged in this community through CTF participation and Bug hunting, seeking continual growth and expertise in the field.<img src="https://sf4ult.github.io/imgs/character.gif" align="right" width="400"/>
  
 ### Skills 🛠️
 
