@@ -9,7 +9,7 @@
 </p>
 
 ---
-## About Me 🙋‍♂️
+## About Me 🙋🏻
 
 I am computer science student with passion of cybersecurity actively engaged in this community through CTF participation and Bug hunting, seeking continual growth and expertise in the field.<img src="https://sf4ult.github.io/imgs/character.gif" align="right" width="400"/>
  
@@ -27,6 +27,10 @@ This list is not exhaustive, and I'm always looking to learn new skills.
 * DevSecOps
 * Cloud Security
 
+## Profiles 🔰
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/durge5h.png" alt="TryHackMe"> 
+
 ## Write-Ups 🅱️ ✍
 
 [CTF Writeup: CICD GOAT | Part 2](https://sf4ult.github.io/2024/06/30/post11/CICD-GOAT-Part-2/)\
@@ -42,7 +46,7 @@ This list is not exhaustive, and I'm always looking to learn new skills.
 [TryHackMe WriteUp: Recovery](https://sf4ult.github.io/2022/09/12/post1/thm-recovery/)
 
 
-## Github Stats
+## Github Stats 📊
 <p>&nbsp;<img align="center`enter code here`" src="https://github-readme-stats.vercel.app/api?username=durge5h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="durge5h"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durge5h&](https://github-readme-stats.vercel.app/api?username=durge5h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="durge5h"/></p>
